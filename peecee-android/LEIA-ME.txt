@@ -1,7 +1,0 @@
-PeeCee Overclock - projeto Android (WebView em tela cheia, paisagem)
-
-1) Abra app/src/main/java/com/peecee/overclock/MainActivity.java e troque SITE_URL pelo endereço do seu site.
-2) Gere o APK de um destes jeitos:
-   a) Android Studio: File > Open (esta pasta) > Build > Build APK(s).  Saída: app/build/outputs/apk/debug/app-debug.apk
-   b) Sem instalar nada: suba esta pasta para um repositório no GitHub > aba Actions > "Build APK" > Run workflow > baixe "peecee-apk".
-3) Instale o APK no celular (permita "fontes desconhecidas").
